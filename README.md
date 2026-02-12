@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1>
-<h2 align="center">A MERN stack developer from India</h2>
+<h2 align="center">A MERN/MEAN stack developer from India</h2>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeetk123&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetk123" /> </p>
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning ** Angular Framework **
 
-- 👨‍💻 All of my projects are available at [https://amarjeet.xyz](https://amarjeet.xyz)
+- 👨‍💻 All of my projects are available at [https://amarjeet.xyz](https://github.com/amarjeetk123?tab=repositories)
 
 - 📝 I regularly write articles on [my aricals](https://amarjeet123.hashnode.dev/)
 
-- 📄 My resume [shorturl.at/ajtuC](https://www.canva.com/design/DAFTxmgPRHU/Qnv5IVt5tCfx2bOV2xjNJg/view?utm_content=DAFTxmgPRHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 My resume [shorturl.at/ajtuC](https://drive.google.com/file/d/1U5433YGpWHws0II0tinOILCoa-FCwUm2/view?usp=drive_link)
 
-- 💬 Ask me about **HTML , CSS , Tailwind , Bootstrap , JavaScript , React JS, Node, Express JS, MongooDB , C**
+- 💬 Ask me about **Angular, React JS, Node JS, Express JS, MongooDB, JavaScript, TypeScript, HTML, CSS, Tailwind, Bootstrap
 
 - 📫 How to reach me **ak123del@gmail.com**
 
