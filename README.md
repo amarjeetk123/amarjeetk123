@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning ** Angular Framework **
 
-- 👨‍💻 All of my projects are available at [https://amarjeet.xyz](https://github.com/amarjeetk123?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repo](https://github.com/amarjeetk123?tab=repositories)
 
 - 📝 I regularly write articles on [my aricals](https://amarjeet123.hashnode.dev/)
 
