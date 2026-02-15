@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [my aricals](https://amarjeet123.hashnode.dev/)
 
-- 📄 My resume [shorturl.at/ajtuC](https://drive.google.com/file/d/1U5433YGpWHws0II0tinOILCoa-FCwUm2/view?usp=drive_link)
+- 📄 My resume [shorturl.at/ajtuC](https://drive.google.com/file/d/1oXWD3EWn3WMiUfuCMaHnD330HQdxNH2A/view?usp=drive_link)
 
 - 💬 Ask me about **Angular, React JS, Node JS, Express JS, MongooDB, JavaScript, TypeScript, HTML, CSS, Tailwind, Bootstrap
 
