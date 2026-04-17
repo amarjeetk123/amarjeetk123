@@ -25,9 +25,6 @@
   <a href="https://linkedin.com/in/amarjeet-kumar-46b79b236" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://codesandbox.io/u/ak123del" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codesandbox" height="40"/>
-  </a>
   <a href="https://instagram.com/amarkumar.aaryan.5" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
