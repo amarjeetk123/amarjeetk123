@@ -19,15 +19,30 @@
 
 - 📫 How to reach me **ak123del@gmail.com**
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/amarjee07266175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarjee07266175" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amarjeet-kumar-46b79b236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarjeet-kumar-46b79b236" height="30" width="40" /></a> 
-<a href="https://codesandbox.com/https://codesandbox.io/u/ak123del" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/ak123del" height="30" width="40" /></a>
-<a href="https://fb.com/amarjeet kumar aaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amarjeet kumar aaryan" height="30" width="40" /></a>
-<a href="https://instagram.com/amarkumar.aaryan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amarkumar.aaryan.5" height="30" width="40" /></a>
-<a href="https://hashnode.com/@amarjeet123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@amarjeet123" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amarjeet kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amarjeet kumar" height="30" width="40" /></a>
+  <a href="https://twitter.com/amarjee07266175" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/amarjeet-kumar-46b79b236" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30" />
+  </a>
+  <a href="https://codesandbox.io/u/ak123del" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" height="30" width="30" />
+  </a>
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/amarkumar.aaryan.5" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="30" />
+  </a>
+  <a href="https://hashnode.com/@amarjeet123" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" height="30" width="30" />
+  </a>
+  <a href="https://youtube.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="30" width="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
